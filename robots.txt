@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://loisbaker.github.io/sitemap.xml
