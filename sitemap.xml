@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://loisbaker.github.io/publication-type/2/</loc>
-    <lastmod>2022-10-05T00:00:00+00:00</lastmod>
+    <loc>https://loisbaker.github.io/publication-type/3/</loc>
+    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loisbaker.github.io/publication/mixing_aabw/</loc>
+    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://loisbaker.github.io/</loc>
-    <lastmod>2022-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://loisbaker.github.io/publication_types/</loc>
-    <lastmod>2022-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://loisbaker.github.io/publication/</loc>
+    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loisbaker.github.io/publication-type/2/</loc>
     <lastmod>2022-10-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://loisbaker.github.io/publication/topographic_representation/</loc>
