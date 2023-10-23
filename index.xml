@@ -5,7 +5,7 @@
     <link>https://loisbaker.github.io/</link>
       <atom:link href="https://loisbaker.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Lois Baker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://loisbaker.github.io/media/icon_hu136014a0efb88659bc8e346f7d9d74ba_41961_512x512_fill_lanczos_center_3.png</url>
       <title>Lois Baker</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>Enhanced upwelling of Antarctic Bottom Water by topographic interaction of water mass interfaces (2022)</title>
+      <title>Boundary Upwelling of Antarctic Bottom Water by Topographic Turbulence (AGU Advances, 2023)</title>
       <link>https://loisbaker.github.io/publication/mixing_aabw/</link>
-      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://loisbaker.github.io/publication/mixing_aabw/</guid>
       <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -36,7 +36,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>The Impact of Representations of Realistic Topography on Parameterized Oceanic Lee Wave Energy Flux (2022)</title>
+      <title>The Impact of Representations of Realistic Topography on Parameterized Oceanic Lee Wave Energy Flux (Journal of Geophysical Research - Oceans, 2022)</title>
       <link>https://loisbaker.github.io/publication/topographic_representation/</link>
       <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://loisbaker.github.io/publication/topographic_representation/</guid>
@@ -128,7 +128,7 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
-      <title>TAO data support the existence of large high frequency variations in cross-equatorial overturning circulation, Geophysical Research Letters (2022)</title>
+      <title>TAO data support the existence of large high frequency variations in cross-equatorial overturning circulation (Geophysical Research Letters, 2022)</title>
       <link>https://loisbaker.github.io/publication/equatorial_oscillations/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://loisbaker.github.io/publication/equatorial_oscillations/</guid>
@@ -151,7 +151,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>A Marginal Stability Paradigm for Shear-Induced Diapycnal Turbulent Mixing in the Ocean, Geophysical Research Letters (2022)</title>
+      <title>A Marginal Stability Paradigm for Shear-Induced Diapycnal Turbulent Mixing in the Ocean (Geophysical Research Letters, 2022)</title>
       <link>https://loisbaker.github.io/publication/marginal_stability/</link>
       <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://loisbaker.github.io/publication/marginal_stability/</guid>
@@ -197,7 +197,7 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
-      <title>Surface reflection of bottom generated oceanic lee waves, Journal of Fluid Mechanics (2021)</title>
+      <title>Surface reflection of bottom generated oceanic lee waves (Journal of Fluid Mechanics, 2021)</title>
       <link>https://loisbaker.github.io/publication/surface_reflection/</link>
       <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://loisbaker.github.io/publication/surface_reflection/</guid>
@@ -366,7 +366,7 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
-      <title>IPCC Special Report Meeting: Climate Change Around the Globe, Weather (2020)</title>
+      <title>IPCC Special Report Meeting: Climate Change Around the Globe (Weather, 2020)</title>
       <link>https://loisbaker.github.io/publication/ipcc_report/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://loisbaker.github.io/publication/ipcc_report/</guid>
@@ -389,7 +389,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>The evolution of superharmonics excited by internal tides in non-uniform stratification, Journal of Fluid Mechanics (2021)</title>
+      <title>The evolution of superharmonics excited by internal tides in non-uniform stratification (Journal of Fluid Mechanics, 2021)</title>
       <link>https://loisbaker.github.io/publication/superharmonics/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://loisbaker.github.io/publication/superharmonics/</guid>
