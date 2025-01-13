@@ -5,12 +5,35 @@
     <link>https://loisbaker.github.io/publication/</link>
       <atom:link href="https://loisbaker.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://loisbaker.github.io/media/icon_hu136014a0efb88659bc8e346f7d9d74ba_41961_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://loisbaker.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Lagrangian filtering for wave–mean flow decomposition (Journal of Fluid Mechanics, 2025 (in press))</title>
+      <link>https://loisbaker.github.io/publication/jfm_lag_mean/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://loisbaker.github.io/publication/jfm_lag_mean/</guid>
+      <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>Editor&#39;s Highlight: Overturning Ocean Water by Turbulence</title>
