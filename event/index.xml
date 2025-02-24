@@ -5,7 +5,7 @@
     <link>https://loisbaker.github.io/event/</link>
       <atom:link href="https://loisbaker.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Jul 2022 11:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://loisbaker.github.io/media/icon_hu136014a0efb88659bc8e346f7d9d74ba_41961_512x512_fill_lanczos_center_3.png</url>
       <title>Recent Talks</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>The impact of realistic topographic representation on the parameterisation of lee wave energy flux</title>
-      <link>https://loisbaker.github.io/talk/the-impact-of-realistic-topographic-representation-on-the-parameterisation-of-lee-wave-energy-flux/</link>
-      <pubDate>Mon, 11 Jul 2022 11:00:00 +0000</pubDate>
-      <guid>https://loisbaker.github.io/talk/the-impact-of-realistic-topographic-representation-on-the-parameterisation-of-lee-wave-energy-flux/</guid>
+      <title>Applied Mathematics Seminar, University of Warwick</title>
+      <link>https://loisbaker.github.io/talk/applied-mathematics-seminar-university-of-warwick/</link>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://loisbaker.github.io/talk/applied-mathematics-seminar-university-of-warwick/</guid>
       <description>&lt;!--- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -36,10 +36,10 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
-      <title>The impact of realistic topographic representation on the parameterisation of lee wave energy flux</title>
-      <link>https://loisbaker.github.io/talk/the-impact-of-realistic-topographic-representation-on-the-parameterisation-of-lee-wave-energy-flux/</link>
-      <pubDate>Mon, 14 Mar 2022 13:00:00 +0000</pubDate>
-      <guid>https://loisbaker.github.io/talk/the-impact-of-realistic-topographic-representation-on-the-parameterisation-of-lee-wave-energy-flux/</guid>
+      <title>Geophysical and Astrophysical Fluid Dynamics Seminar, Unviersity of Glasgow</title>
+      <link>https://loisbaker.github.io/talk/geophysical-and-astrophysical-fluid-dynamics-seminar-unviersity-of-glasgow/</link>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://loisbaker.github.io/talk/geophysical-and-astrophysical-fluid-dynamics-seminar-unviersity-of-glasgow/</guid>
       <description>&lt;!--- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -59,10 +59,10 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
-      <title>The impact of realistic topographic representation on the parameterisation of lee wave energy flux</title>
-      <link>https://loisbaker.github.io/talk/the-impact-of-realistic-topographic-representation-on-the-parameterisation-of-lee-wave-energy-flux/</link>
-      <pubDate>Wed, 23 Feb 2022 23:00:00 +0000</pubDate>
-      <guid>https://loisbaker.github.io/talk/the-impact-of-realistic-topographic-representation-on-the-parameterisation-of-lee-wave-energy-flux/</guid>
+      <title>Fluids and Materials Seminar, University of Bristol</title>
+      <link>https://loisbaker.github.io/talk/fluids-and-materials-seminar-university-of-bristol/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://loisbaker.github.io/talk/fluids-and-materials-seminar-university-of-bristol/</guid>
       <description>&lt;!--- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -82,10 +82,10 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
-      <title>Surface reflection of bottom generated oceanic lee waves</title>
-      <link>https://loisbaker.github.io/talk/surface-reflection-of-bottom-generated-oceanic-lee-waves/</link>
-      <pubDate>Tue, 10 Aug 2021 20:00:00 +0000</pubDate>
-      <guid>https://loisbaker.github.io/talk/surface-reflection-of-bottom-generated-oceanic-lee-waves/</guid>
+      <title>Applied and Interdisciplinary Seminars, University of Bath</title>
+      <link>https://loisbaker.github.io/talk/applied-and-interdisciplinary-seminars-university-of-bath/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://loisbaker.github.io/talk/applied-and-interdisciplinary-seminars-university-of-bath/</guid>
       <description>&lt;!--- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -105,33 +105,10 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
-      <title>Topographically generated waves in a realistic nested model of the Drake Passage</title>
-      <link>https://loisbaker.github.io/talk/topographically-generated-waves-in-a-realistic-nested-model-of-the-drake-passage/</link>
-      <pubDate>Wed, 19 May 2021 18:00:00 +0000</pubDate>
-      <guid>https://loisbaker.github.io/talk/topographically-generated-waves-in-a-realistic-nested-model-of-the-drake-passage/</guid>
-      <description>&lt;!---&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
---&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Surface reflection of bottom generated oceanic lee waves</title>
-      <link>https://loisbaker.github.io/talk/surface-reflection-of-bottom-generated-oceanic-lee-waves/</link>
-      <pubDate>Wed, 24 Feb 2021 11:00:00 +0000</pubDate>
-      <guid>https://loisbaker.github.io/talk/surface-reflection-of-bottom-generated-oceanic-lee-waves/</guid>
+      <title>Woods Hole Geophysical Fluid Dynamics Program</title>
+      <link>https://loisbaker.github.io/talk/woods-hole-geophysical-fluid-dynamics-program/</link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://loisbaker.github.io/talk/woods-hole-geophysical-fluid-dynamics-program/</guid>
       <description>&lt;!--- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -151,11 +128,11 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
-      <title>Flow-topography interaction in a realistic nested model of the Drake Passage</title>
-      <link>https://loisbaker.github.io/talk/flow-topography-interaction-in-a-realistic-nested-model-of-the-drake-passage/</link>
-      <pubDate>Thu, 10 Sep 2020 16:30:00 +0000</pubDate>
-      <guid>https://loisbaker.github.io/talk/flow-topography-interaction-in-a-realistic-nested-model-of-the-drake-passage/</guid>
-      <description>&lt;!---&lt;div class=&#34;alert alert-note&#34;&gt;
+      <title>Gordon Research Conference on Ocean Mixing</title>
+      <link>https://loisbaker.github.io/talk/gordon-research-conference-on-ocean-mixing/</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://loisbaker.github.io/talk/gordon-research-conference-on-ocean-mixing/</guid>
+      <description>&lt;!--- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
   &lt;/div&gt;
@@ -174,11 +151,11 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
-      <title>Superharmonics of internal tides in non-uniform stratification</title>
-      <link>https://loisbaker.github.io/talk/superharmonics-of-internal-tides-in-non-uniform-stratification/</link>
-      <pubDate>Fri, 21 Feb 2020 14:45:00 +0000</pubDate>
-      <guid>https://loisbaker.github.io/talk/superharmonics-of-internal-tides-in-non-uniform-stratification/</guid>
-      <description>&lt;!---&lt;div class=&#34;alert alert-note&#34;&gt;
+      <title>Industrial and Applied Mathematics Seminar, University of Oxford</title>
+      <link>https://loisbaker.github.io/talk/industrial-and-applied-mathematics-seminar-university-of-oxford/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://loisbaker.github.io/talk/industrial-and-applied-mathematics-seminar-university-of-oxford/</guid>
+      <description>&lt;!--- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
   &lt;/div&gt;
@@ -197,11 +174,11 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
-      <title>Superharmonics of internal tides in non-uniform stratification</title>
-      <link>https://loisbaker.github.io/talk/superharmonics-of-internal-tides-in-non-uniform-stratification/</link>
-      <pubDate>Wed, 13 Nov 2019 16:00:00 +0000</pubDate>
-      <guid>https://loisbaker.github.io/talk/superharmonics-of-internal-tides-in-non-uniform-stratification/</guid>
-      <description>&lt;!---&lt;div class=&#34;alert alert-note&#34;&gt;
+      <title>Isaac Newton Institute Workshop - Climate Applications of Layering</title>
+      <link>https://loisbaker.github.io/talk/isaac-newton-institute-workshop-climate-applications-of-layering/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://loisbaker.github.io/talk/isaac-newton-institute-workshop-climate-applications-of-layering/</guid>
+      <description>&lt;!--- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
   &lt;/div&gt;
@@ -220,12 +197,34 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
-      <title>Superharmonics of internal tides in non-uniform stratification</title>
-      <link>https://loisbaker.github.io/talk/superharmonics-of-internal-tides-in-non-uniform-stratification/</link>
-      <pubDate>Tue, 20 Aug 2019 11:00:00 +0000</pubDate>
-      <guid>https://loisbaker.github.io/talk/superharmonics-of-internal-tides-in-non-uniform-stratification/</guid>
-      <description>&lt;!---
-&lt;div class=&#34;alert alert-note&#34;&gt;
+      <title>Ocean Sciences Meeting, New Orleans</title>
+      <link>https://loisbaker.github.io/talk/ocean-sciences-meeting-new-orleans/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://loisbaker.github.io/talk/ocean-sciences-meeting-new-orleans/</guid>
+      <description>&lt;!--- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mathematical Aspects of Geophysical and Astrophysical Fluid Dynamics</title>
+      <link>https://loisbaker.github.io/talk/mathematical-aspects-of-geophysical-and-astrophysical-fluid-dynamics/</link>
+      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://loisbaker.github.io/talk/mathematical-aspects-of-geophysical-and-astrophysical-fluid-dynamics/</guid>
+      <description>&lt;!--- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
   &lt;/div&gt;

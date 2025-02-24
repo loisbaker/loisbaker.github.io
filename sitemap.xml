@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://loisbaker.github.io/talk/applied-mathematics-seminar-university-of-warwick/</loc>
+    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loisbaker.github.io/</loc>
+    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loisbaker.github.io/event/</loc>
+    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loisbaker.github.io/talk/geophysical-and-astrophysical-fluid-dynamics-seminar-unviersity-of-glasgow/</loc>
+    <lastmod>2025-01-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://loisbaker.github.io/publication-type/2/</loc>
     <lastmod>2025-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://loisbaker.github.io/publication/jfm_lag_mean/</loc>
-    <lastmod>2025-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://loisbaker.github.io/</loc>
     <lastmod>2025-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://loisbaker.github.io/publication_types/</loc>
@@ -17,10 +26,37 @@
     <loc>https://loisbaker.github.io/publication/</loc>
     <lastmod>2025-01-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://loisbaker.github.io/publication/superharmonics_llc4320/</loc>
+    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loisbaker.github.io/talk/fluids-and-materials-seminar-university-of-bristol/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loisbaker.github.io/talk/applied-and-interdisciplinary-seminars-university-of-bath/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loisbaker.github.io/talk/woods-hole-geophysical-fluid-dynamics-program/</loc>
+    <lastmod>2024-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loisbaker.github.io/talk/gordon-research-conference-on-ocean-mixing/</loc>
+    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loisbaker.github.io/talk/industrial-and-applied-mathematics-seminar-university-of-oxford/</loc>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loisbaker.github.io/talk/isaac-newton-institute-workshop-climate-applications-of-layering/</loc>
+    <lastmod>2024-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loisbaker.github.io/talk/ocean-sciences-meeting-new-orleans/</loc>
+    <lastmod>2024-02-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://loisbaker.github.io/publication-type/4/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://loisbaker.github.io/publication/mixing_aabw_editors_highlight/</loc>
+    <lastmod>2024-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loisbaker.github.io/talk/mathematical-aspects-of-geophysical-and-astrophysical-fluid-dynamics/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://loisbaker.github.io/publication/mixing_aabw/</loc>
@@ -29,35 +65,14 @@
     <loc>https://loisbaker.github.io/publication/topographic_representation/</loc>
     <lastmod>2022-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://loisbaker.github.io/event/</loc>
-    <lastmod>2022-07-11T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://loisbaker.github.io/talk/the-impact-of-realistic-topographic-representation-on-the-parameterisation-of-lee-wave-energy-flux/</loc>
-    <lastmod>2022-07-11T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://loisbaker.github.io/talk/the-impact-of-realistic-topographic-representation-on-the-parameterisation-of-lee-wave-energy-flux/</loc>
-    <lastmod>2022-03-14T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://loisbaker.github.io/talk/the-impact-of-realistic-topographic-representation-on-the-parameterisation-of-lee-wave-energy-flux/</loc>
-    <lastmod>2022-02-23T23:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://loisbaker.github.io/publication/equatorial_oscillations/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://loisbaker.github.io/publication/marginal_stability/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://loisbaker.github.io/talk/surface-reflection-of-bottom-generated-oceanic-lee-waves/</loc>
-    <lastmod>2021-08-10T20:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://loisbaker.github.io/publication/surface_reflection/</loc>
     <lastmod>2021-08-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://loisbaker.github.io/talk/topographically-generated-waves-in-a-realistic-nested-model-of-the-drake-passage/</loc>
-    <lastmod>2021-05-19T18:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://loisbaker.github.io/talk/surface-reflection-of-bottom-generated-oceanic-lee-waves/</loc>
-    <lastmod>2021-02-24T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://loisbaker.github.io/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
@@ -83,9 +98,6 @@
     <loc>https://loisbaker.github.io/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://loisbaker.github.io/talk/flow-topography-interaction-in-a-realistic-nested-model-of-the-drake-passage/</loc>
-    <lastmod>2020-09-10T16:30:00+00:00</lastmod>
-  </url><url>
     <loc>https://loisbaker.github.io/publication-type/1/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -94,15 +106,6 @@
   </url><url>
     <loc>https://loisbaker.github.io/publication/superharmonics/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://loisbaker.github.io/talk/superharmonics-of-internal-tides-in-non-uniform-stratification/</loc>
-    <lastmod>2020-02-21T14:45:00+00:00</lastmod>
-  </url><url>
-    <loc>https://loisbaker.github.io/talk/superharmonics-of-internal-tides-in-non-uniform-stratification/</loc>
-    <lastmod>2019-11-13T16:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://loisbaker.github.io/talk/superharmonics-of-internal-tides-in-non-uniform-stratification/</loc>
-    <lastmod>2019-08-20T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://loisbaker.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
