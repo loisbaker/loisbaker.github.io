@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://loisbaker.github.io/talk/applied-mathematics-seminar-university-of-warwick/</loc>
-    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
+    <loc>https://loisbaker.github.io/publication-type/2/</loc>
+    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loisbaker.github.io/journals.aps.org/prfluids/abstract/10.1103/4d4f-38wx</loc>
+    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://loisbaker.github.io/</loc>
+    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loisbaker.github.io/publication_types/</loc>
+    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loisbaker.github.io/publication/</loc>
+    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://loisbaker.github.io/talk/applied-mathematics-seminar-university-of-warwick/</loc>
     <lastmod>2025-02-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://loisbaker.github.io/event/</loc>
@@ -14,16 +26,7 @@
     <loc>https://loisbaker.github.io/talk/geophysical-and-astrophysical-fluid-dynamics-seminar-unviersity-of-glasgow/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://loisbaker.github.io/publication-type/2/</loc>
-    <lastmod>2025-01-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://loisbaker.github.io/www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/lagrangian-filtering-for-wavemean-flow-decomposition/63B0037D009B66639E4A597748E374EF</loc>
-    <lastmod>2025-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://loisbaker.github.io/publication_types/</loc>
-    <lastmod>2025-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://loisbaker.github.io/publication/</loc>
     <lastmod>2025-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://loisbaker.github.io/publication/superharmonics_llc4320/</loc>
