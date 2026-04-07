@@ -5,12 +5,127 @@
     <link>https://loisbaker.github.io/event/</link>
       <atom:link href="https://loisbaker.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://loisbaker.github.io/media/icon_hu136014a0efb88659bc8e346f7d9d74ba_41961_512x512_fill_lanczos_center_3.png</url>
       <title>Recent Talks</title>
       <link>https://loisbaker.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>Australian National University Research School of Earth Sciences (RSES) Seminar Series</title>
+      <link>https://loisbaker.github.io/talk/australian-national-university-research-school-of-earth-sciences-rses-seminar-series/</link>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://loisbaker.github.io/talk/australian-national-university-research-school-of-earth-sciences-rses-seminar-series/</guid>
+      <description>&lt;!--- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Directions in Theoretical Physics (Invited Talk)</title>
+      <link>https://loisbaker.github.io/talk/new-directions-in-theoretical-physics-invited-talk/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://loisbaker.github.io/talk/new-directions-in-theoretical-physics-invited-talk/</guid>
+      <description>&lt;!--- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Applied Mathematics Seminar, University of St Andrews</title>
+      <link>https://loisbaker.github.io/talk/applied-mathematics-seminar-university-of-st-andrews/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://loisbaker.github.io/talk/applied-mathematics-seminar-university-of-st-andrews/</guid>
+      <description>&lt;!--- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Warnemunde Türbulence Days</title>
+      <link>https://loisbaker.github.io/talk/warnemunde-turbulence-days/</link>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://loisbaker.github.io/talk/warnemunde-turbulence-days/</guid>
+      <description>&lt;!--- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Climate Exploration in Lively Liason with the Ocean (CELLO), Hamburg</title>
+      <link>https://loisbaker.github.io/talk/climate-exploration-in-lively-liason-with-the-ocean-cello-hamburg/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://loisbaker.github.io/talk/climate-exploration-in-lively-liason-with-the-ocean-cello-hamburg/</guid>
+      <description>&lt;!--- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+--&gt;
+</description>
+    </item>
     
     <item>
       <title>Applied Mathematics Seminar, University of Warwick</title>
